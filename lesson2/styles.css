@@ -14,7 +14,7 @@ ol {
  }
  p{
     color: black;
-    padding-left: 100px;
+    padding-left: 200px;
  }
  h1{
     color: crimson;
@@ -26,9 +26,18 @@ ol {
     color: darkgreen;
  }
  img{
-    padding-left: 100px;
+    padding-left: 200px;
     margin-top: 1em;
     margin-bottom: 1em;
  }
-
+ .asd{
+    color: blueviolet;
+ }
+.as{
+    color: brown;
+}
+.header{
+    padding-left: 20px;
+    font-size: 20px;
+}
  
