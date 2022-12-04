@@ -17,4 +17,4 @@ INSERT INTO GROUPMATES VALUES (0006, 'Salauat', 19,'Uly-Dala 12');
 INSERT INTO GROUPMATES VALUES (0007, 'Tamerlan', 22,'Turan 44');
 
 -- fetch 
-SELECT name FROM GROUPMATES WHERE adress = 'Moscow' and age > 18. and age<30;
+SELECT name FROM GROUPMATES WHERE adress = 'Moscow' and age > 18. and age < 30;
