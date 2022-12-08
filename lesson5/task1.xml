@@ -14,7 +14,8 @@
 <phone>"Москва"</phone>
 
 <birthplace>"+7 926 766 48 48"</birthplace>
-<!--originally mistake was below in "</user". tag <user> was unclosed-->
+<!--originally mistake was below in "</user". tag <user> was unclosed, also birthplace 
+and phone number were replaced-->
 </user>
 
 ```
@@ -28,8 +29,8 @@
 	<surname>"Иванов"</surname>
 	<patronymic>"Иванович"</patronymic>
 	<age>"30"</age>
-	<phone>"Москва"</phone>
-	<birthplace>"+7 926 766 48 48"</birthplace>
+	<birthplace>"Москва"</birthplace>
+	<phone>"+7 926 766 48 48"</phone>
 </user>
 
 ```
