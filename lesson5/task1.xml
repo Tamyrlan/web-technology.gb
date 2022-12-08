@@ -1,0 +1,35 @@
+<!--unformatted-->
+```
+
+<user>
+
+<name>"Иван"</name>
+
+<surname>"Иванов"</surname>
+
+<patronymic>"Иванович"</patronymic>
+
+<age>"30"</age>
+
+<phone>"Москва"</phone>
+
+<birthplace>"+7 926 766 48 48"</birthplace>
+<!--originally mistake was below in "</user". tag <user> was unclosed-->
+</user>
+
+```
+
+<!--formatted-->
+```
+
+
+<user>
+	<name>"Иван"</name>
+	<surname>"Иванов"</surname>
+	<patronymic>"Иванович"</patronymic>
+	<age>"30"</age>
+	<phone>"Москва"</phone>
+	<birthplace>"+7 926 766 48 48"</birthplace>
+</user>
+
+```
